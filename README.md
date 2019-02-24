@@ -1,4 +1,14 @@
 Clicky-Game
+#Instructions 
+Click as many different images as you can, if you click the same image twice the game resets.
+
+#Technologies 
+Bootstrap, React
+
+#Heroku Deployment
+
+#Developer
+Kristen N. Austin jittycodes.com
 
 #Image Credits
 Header Background - Photo by Yucel Moran on Unsplash
